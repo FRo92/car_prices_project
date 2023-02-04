@@ -1,0 +1,9 @@
+*.exe
+*.ipynb
+*.csv
+*.txt
+/scraping-chileautos/
+scrapping_chileautos.py
+/model_test/
+
+
